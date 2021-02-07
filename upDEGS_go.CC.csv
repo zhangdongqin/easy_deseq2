@@ -1,0 +1,5 @@
+ID,Description,GeneRatio,BgRatio,pvalue,p.adjust,qvalue,geneID,Count
+GO:0031233,intrinsic component of external side of plasma membrane,1/1,24/19717,0.00121722371557531,0.00486889486230124,NA,F3,1
+GO:1905368,peptidase complex,1/1,89/19717,0.00451387127859193,0.00902774255718386,NA,F3,1
+GO:0009897,external side of plasma membrane,1/1,393/19717,0.0199320383425469,0.0205913678551504,NA,F3,1
+GO:0062023,collagen-containing extracellular matrix,1/1,406/19717,0.0205913678551504,0.0205913678551504,NA,F3,1

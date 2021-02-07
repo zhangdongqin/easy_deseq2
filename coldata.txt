@@ -1,0 +1,9 @@
+sample	batch	condition
+1N	1	normal
+1T	1	turmor
+2T	1	turmor
+3N	1	normal
+3T	1	turmor
+4N	1	normal
+5N	1	normal
+5T	1	turmor
