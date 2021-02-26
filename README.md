@@ -23,8 +23,8 @@
 2. -STEP02_Usage:( YOU CAN RUN FOLLOW SCRIPTS TO RUN A TEST pipeline )
 	```bash
 	Rscript deseq.r \
-	--count_file ./reads.txt \
-	--coldata_file ./coldata.txt \
+	--count_file ./test_data/reads.txt \
+	--coldata_file ./test_data/coldata.txt \
 	--sample_con "tumor-normal" \
 	--outprefix "zdq_deseq2"
 	```
